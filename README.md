@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jyoti7575
-- 👀 I’m interested in Java ,DSA
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on projects for Java
+- 💞️ I’m looking to collaborate on projects for Data Science
 - 📫 How to reach me E-mail:gjyoti8928@gmail.com , Linkedin:www.linkedin.com/in/jyoti-gupta-079a942b8
 - 😄 Pronouns: her/she
 - ⚡ Fun fact: ...
